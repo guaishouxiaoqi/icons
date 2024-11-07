@@ -1,4 +1,4 @@
-![示例](https://raw.githubusercontent.com/guaishouxiaoqi/icon/path/icon.png)
+![示例](https://raw.githubusercontent.com/guaishouxiaoqi/icon/Color/Flower.png)
 
 ## icon 项目
 

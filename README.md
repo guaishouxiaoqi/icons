@@ -64,6 +64,6 @@
 
 **注：** task 图标的透明和彩色版本文件名完全一致，仅所在库不同
 
-##### 图标索引，请将使用方法中的 icon.png 替换成相应文件的文件名
+##### 图标索引，请将使用方法中的，none 替换成对应的文件夹名， icon.png 替换成相应文件的文件名
 
-![示例](https://raw.githubusercontent.com/guaishouxiaoqi/icon/none/icon.png)
+**示例：** (https://raw.githubusercontent.com/guaishouxiaoqi/icon/none/icon.png)

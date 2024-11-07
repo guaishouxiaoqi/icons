@@ -1,10 +1,10 @@
-![示例](https://raw.githubusercontent.com/guaishouxiaoqi/icon/Color/Flower.png)
+![示例](https://raw.githubusercontent.com/guaishouxiaoqi/icon/master/Color/Flower.png)
 
 ## icon 项目
 
 本项目图标可用于 Quantumult X 订阅，Task，策略组等位置的远程引用
 
-#### 本项目中大部分图来源于 mini 项目，地址为：https://github.com/Orz-3/mini，本项目初衷用于自己日常需要，扩展一些不常用图标
+#### 本项目初衷用于自己日常需要，扩展一些不常用图标，项目中大部分图来源于 mini 项目，地址为：https://github.com/Orz-3/mini
 
 ### Quantumult X 使用方法：
 

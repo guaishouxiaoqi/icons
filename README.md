@@ -1,10 +1,8 @@
 <p align="center">
   <a href="https://getbootstrap.com/">
-    <img src="https://raw.githubusercontent.com/guaishouxiaoqi/icon/master/Color/iconFont.png" alt="icons" width="200" height="165">
+    <img src="https://raw.githubusercontent.com/guaishouxiaoqi/icon/master/Color/iconFont.png" alt="icons" width="160" height="160">
   </a>
 </p>
-
-<h3 align="center">icons</h3>
 
 ## icons 项目
 

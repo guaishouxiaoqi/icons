@@ -1,6 +1,11 @@
-![示例](https://raw.githubusercontent.com/guaishouxiaoqi/icon/master/Color/iconFont.png)
+<p align="center">
+  <a href="https://getbootstrap.com/">
+    <img src="https://raw.githubusercontent.com/guaishouxiaoqi/icon/master/Color/iconFont.png" alt="icons" width="200" height="165">
+  </a>
+</p>
 
-## icon 项目
+<h3 align="center">icons</h3>
+## icons 项目
 
 本项目图标可用于 Quantumult X 订阅，Task，策略组等位置的远程引用
 

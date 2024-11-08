@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/guaishouxiaoqi/icon">
-    <img src="https://raw.githubusercontent.com/guaishouxiaoqi/icons/master/Color/iconFont.png" alt="icons" width="160" height="160">
+    <img src="https://raw.githubusercontent.com/guaishouxiaoqi/icons/master/Color/iconFont.png" alt="icons" width="108" height="108">
   </a>
 </p>
 
@@ -66,6 +66,6 @@
 
 🔘 透明版本 `https://raw.githubusercontent.com/guaishouxiaoqi/icons/master/Alpha/icon.png`
 
-**注：** task 图标的透明和彩色版本文件名完全一致，仅所在库不同
+**注：** task 图标的透明和彩色版本文件名完全一致，仅所在库不同（说明：当添加后的图标不生效时，需要在 Quantumult X 中资源处点击删除图片缓存即可）
 
 ##### 图标索引，请将使用方法中的，Color/Alpha 替换成对应的文件夹名， icon.png 替换成相应文件的文件名
